@@ -1,0 +1,3 @@
+<launch>
+    <node name="raptor_ai" pkg="raptor_ai" type="ros_node_ai.py" />
+</launch>
